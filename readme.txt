@@ -1,4 +1,4 @@
-RReplication Data for "Past and present group exclusion and conflict"
+Replication Data for "Past and present group exclusion and conflict"
 
 This repository contains the replication data and code for the article titled "Past and present group exclusion and conflict: Group marginalization, opportunity, and Islamic State foreign fighter mobilization," authored by J. Edgerton and published in the Journal of Conflict Resolution in 2023.
 
